@@ -1,10 +1,7 @@
-name: Kotlin with Gradle
-
+name: GitHub-Actions
 on: [push]
-
 jobs:
   build:
-    name: Building
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
