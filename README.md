@@ -19,3 +19,13 @@ The configuration is in [.travis.yml].
 [travis-ci]: https://travis-ci.com/ChristopherZhong/ci-gradle-example
 [travis-ci-badge]: https://travis-ci.com/ChristopherZhong/ci-gradle-example.svg?branch=master
 [.travis.yml]: https://github.com/ChristopherZhong/ci-gradle-example/blob/master/.travis.yml
+
+## [CircleCI][circleci-url]
+[![CircleCI Build Status][circleci-badge]][circleci]
+
+The configuration is in [config.yml].
+
+[circleci-url]: https://circleci.com/
+[circleci]: https://circleci.com/gh/ChristopherZhong/ci-gradle-example
+[circleci-badge]: https://circleci.com/gh/ChristopherZhong/ci-gradle-example.svg?style=svg
+[config.yml]: https://github.com/ChristopherZhong/ci-gradle-example/blob/master/.circleci/config.yml
