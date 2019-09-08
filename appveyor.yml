@@ -1,7 +1,10 @@
 version: 1.0.{build}
 image: Ubuntu1804
-cache: ~/.gradle
+stack: jdk12
+cache:
+  - ~/.gradle/cache
+  - ~/.gradle/wrapper
 build_script:
-  - sh: ./gradlew build
+  - ./gradlew build
 test: off
 deploy: off
