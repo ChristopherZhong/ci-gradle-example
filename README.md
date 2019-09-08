@@ -29,3 +29,13 @@ The configuration is in [config.yml].
 [circleci]: https://circleci.com/gh/ChristopherZhong/ci-gradle-example
 [circleci-badge]: https://circleci.com/gh/ChristopherZhong/ci-gradle-example.svg?style=svg
 [config.yml]: https://github.com/ChristopherZhong/ci-gradle-example/blob/master/.circleci/config.yml
+
+## [Cirrus CI][cirrus-ci-url]
+[![Cirrus CI Build Status][cirrus-ci-badge]][cirrus-ci]
+
+The configuration is in [.cirrus.yml].
+
+[cirrus-ci-url]: https://cirrus-ci.org/
+[cirrus-ci]: https://cirrus-ci.com/github/ChristopherZhong/ci-gradle-example
+[cirrus-ci-badge]: https://api.cirrus-ci.com/github/ChristopherZhong/ci-gradle-example.svg
+[.cirrus.yml]: https://github.com/ChristopherZhong/ci-gradle-example/blob/master/.cirrus.yml
