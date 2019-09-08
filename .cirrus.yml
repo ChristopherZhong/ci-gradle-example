@@ -1,5 +1,5 @@
 container:
-  image: openjdk:12
+  image: gradle:jdk12
 
 check_task:
   gradle_cache:
