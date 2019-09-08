@@ -39,3 +39,13 @@ The configuration is in [.cirrus.yml].
 [cirrus-ci]: https://cirrus-ci.com/github/ChristopherZhong/ci-gradle-example
 [cirrus-ci-badge]: https://api.cirrus-ci.com/github/ChristopherZhong/ci-gradle-example.svg
 [.cirrus.yml]: https://github.com/ChristopherZhong/ci-gradle-example/blob/master/.cirrus.yml
+
+## [AppVeyor][appveyor-url]
+[![AppVeyor Build status][appveyor-badge]][appveyor]
+
+The configuration is in [appveyor.yml]
+
+[appveyor-url]: https://www.appveyor.com/
+[appveyor]: https://ci.appveyor.com/project/ChristopherZhong/ci-gradle-example
+[appveyor-badge]: https://ci.appveyor.com/api/projects/status/lf3r3l8064jmstgb?svg=true
+[appveyor.yml]: https://github.com/ChristopherZhong/ci-gradle-example/blob/master/appveyor.yml
