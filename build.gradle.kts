@@ -9,7 +9,7 @@ repositories {
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
-    testImplementation("org.junit.jupiter:junit-jupiter:5.5.1")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.14.4")
 }
 tasks.test {
     useJUnitPlatform()
